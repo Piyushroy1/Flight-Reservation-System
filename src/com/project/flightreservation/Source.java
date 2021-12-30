@@ -70,6 +70,8 @@ public class Source {
 
 					//PROMPTS THE PASSENGER TO FETCH THE FLIGHT DETAILS FROM THE FLIGHT CLASS
 					Tourist_Ticket_flight.gettingTicketDetails();
+					
+					//RE-ENTERING FLIGHT DETAILS, TO BE PRINTED ON TICKET 
 					System.out.println("\nPLEASE RE-ENTER YOUR FLIGHT DETAILS TO BE PRINTED ON THE TICKET--> ");
 					String[] reentering_Flight=new String[3];
 					System.out.print("Enter your Departure Location: ");
@@ -81,6 +83,8 @@ public class Source {
 
 					//PROMPTS THE PASSENGER TO FETCH THE CONTACT DETAILS FROM THE PASSENGER-CONTACT NESTED CLASS
 					Tourist_Contact.gettingContactDetails();
+					
+					//RE-ENTERING CONTACT DETAILS, TO BE PRINTED ON TICKET 
 					System.out.println("\nPLEASE RE-ENTER YOUR CONTACT DETAILS TO BE PRINTED ON THE TICKET--> ");
 					String[] reentering_Contact=new String[3];
 					System.out.print("Enter your Name: ");
@@ -94,6 +98,8 @@ public class Source {
 
 					//PROMPTS THE PASSENGER TO FETCH THE ADDRESS DETAILS FROM THE PASSENGER-ADDRESS NESTED CLASS
 					Tourist_Address.gettingAddressDetails();
+					
+					//RE-ENTERING ADDRESS DETAILS, TO BE PRINTED ON TICKET 
 					System.out.println("\nPLEASE RE-ENTER YOUR ADDRESS DETAILS TO BE PRINTED ON THE TICKET--> ");
 					String[] reentering_address=new String[3];
 					System.out.print("Enter your Street: ");
@@ -123,6 +129,8 @@ public class Source {
 
 					//PROMPTS THE PASSENGER TO FETCH THE FLIGHT DETAILS FROM THE FLIGHT CLASS
 					Regular_Ticket_flight.gettingTicketDetails();
+					
+					//RE-ENTERING FLIGHT DETAILS, TO BE PRINTED ON TICKET 
 					System.out.println("\nPLEASE RE-ENTER YOUR FLIGHT DETAILS TO BE PRINTED ON THE TICKET--> ");
 					String[] reentering_Flight=new String[3];
 					System.out.print("Enter your Departure Location: ");
@@ -134,6 +142,8 @@ public class Source {
 
 					//PROMPTS THE PASSENGER TO FETCH THE CONTACT DETAILS FROM THE PASSENGER-CONTACT NESTED CLASS
 					Regular_Contact.gettingContactDetails();
+					
+					//RE-ENTERING CONTACT DETAILS, TO BE PRINTED ON TICKET 
 					System.out.println("\nPLEASE RE-ENTER YOUR CONTACT DETAILS TO BE PRINTED ON THE TICKET--> ");
 					String[] reentering_Contact=new String[3];
 					System.out.print("Enter your Name: ");
@@ -147,6 +157,8 @@ public class Source {
 
 					//PROMPTS THE PASSENGER TO FETCH THE ADDRESS DETAILS FROM THE PASSENGER-ADDRESS NESTED CLASS
 					Regular_Address.gettingAddressDetails();
+					
+					//RE-ENTERING ADDRESS DETAILS, TO BE PRINTED ON TICKET 
 					System.out.println("\nPLEASE RE-ENTER YOUR ADDRESS DETAILS TO BE PRINTED ON THE TICKET--> ");
 					String[] reentering_address=new String[3];
 					System.out.print("Enter your Street: ");
@@ -202,6 +214,8 @@ public class Source {
 
 				//THE PASSENGER TO FETCH THE FLIGHT DETAILS FROM THE FLIGHT CLASS
 				Tourist_Ticket_flight.gettingTicketDetails();
+				
+				//RE-ENTERING FLIGHT DETAILS, TO BE PRINTED ON TICKET 
 				System.out.println("\nPLEASE RE-ENTER YOUR FLIGHT DETAILS TO BE PRINTED ON THE TICKET--> ");
 				String[] reentering_Flight=new String[3];
 				System.out.print("Enter your Departure Location: ");
@@ -213,6 +227,8 @@ public class Source {
 
 				//PROMPTS THE PASSENGER TO FETCH THE CONTACT DETAILS FROM THE PASSENGER-CONTACT NESTED CLASS
 				Tourist_Contact.gettingContactDetails();
+				
+				//RE-ENTERING CONTACT DETAILS, TO BE PRINTED ON TICKET 
 				System.out.println("\nPLEASE RE-ENTER YOUR CONTACT DETAILS TO BE PRINTED ON THE TICKET--> ");
 				String[] reentering_Contact=new String[3];
 				System.out.print("Enter your Name: ");
@@ -226,6 +242,8 @@ public class Source {
 
 				//PROMPTS THE PASSENGER TO FETCH THE ADDRESS DETAILS FROM THE PASSENGER-ADDRESS NESTED CLASS
 				Tourist_Address.gettingAddressDetails();
+				
+				//RE-ENTERING ADDRESS DETAILS, TO BE PRINTED ON TICKET 
 				System.out.println("\nPLEASE RE-ENTER YOUR ADDRESS DETAILS TO BE PRINTED ON THE TICKET--> ");
 				String[] reentering_address=new String[3];
 				System.out.print("Enter your Street: ");
@@ -257,6 +275,8 @@ public class Source {
 
 				//PROMPTS THE PASSENGER TO FETCH THE FLIGHT DETAILS FROM THE FLIGHT CLASS
 				Regular_Ticket_flight.gettingTicketDetails();
+				
+				//RE-ENTERING FLIGHT DETAILS, TO BE PRINTED ON TICKET 
 				System.out.println("\nPLEASE RE-ENTER YOUR FLIGHT DETAILS TO BE PRINTED ON THE TICKET--> ");
 				String[] reentering_Flight=new String[3];
 				System.out.print("Enter your Departure Location: ");
@@ -268,6 +288,8 @@ public class Source {
 
 				//PROMPTS THE PASSENGER TO FETCH THE CONTACT DETAILS FROM THE PASSENGER-CONTACT NESTED CLASS
 				Regular_Contact.gettingContactDetails();
+				
+				//RE-ENTERING CONTACT DETAILS, TO BE PRINTED ON TICKET 
 				System.out.println("\nPLEASE RE-ENTER YOUR CONTACT DETAILS TO BE PRINTED ON THE TICKET--> ");
 				String[] reentering_Contact=new String[3];
 				System.out.print("Enter your Name: ");
@@ -281,6 +303,8 @@ public class Source {
 
 				//PROMPTS THE PASSENGER TO FETCH THE ADDRESS DETAILS FROM THE PASSENGER-ADDRESS NESTED CLASS
 				Regular_Address.gettingAddressDetails();
+				
+				//RE-ENTERING ADDRESS DETAILS, TO BE PRINTED ON TICKET 
 				System.out.println("\nPLEASE RE-ENTER YOUR ADDRESS DETAILS TO BE PRINTED ON THE TICKET--> ");
 				String[] reentering_address=new String[3];
 				System.out.print("Enter your Street: ");
